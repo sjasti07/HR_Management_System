@@ -107,8 +107,6 @@ C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\bin\Debug\
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\HR_Management_System.csproj.CoreCompileInputs.cache
-C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\HR_Management_System.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
@@ -125,3 +123,9 @@ C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\HR_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\HR_Management_System.MvcApplicationPartsAssemblyInfo.cache

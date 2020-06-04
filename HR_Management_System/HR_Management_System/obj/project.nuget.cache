@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VyzdSevukqOBZ7ABjo2IL5UH2OKpY9gkCtvY9yITaRLBBt4jXffz5LNXA78Qfgu4yxlXfl2VNr3k0mMFTMjDqQ==",
+  "dgSpecHash": "gLFoI8s6blCxy4g4OuOqQ2VGr0869qDCA9ZEXoLqsy4fCmKrx4iDYnQN+n09uQ/re0WCsXi20IKOdcyOHC2i5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\siddj\\source\\repos\\HR_Management_System\\HR_Management_System\\HR_Management_System.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,9 @@
     "C:\\Users\\siddj\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\siddj\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\siddj\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\siddj\\.nuget\\packages\\nlog\\4.6.8\\nlog.4.6.8.nupkg.sha512",
+    "C:\\Users\\siddj\\.nuget\\packages\\nlog.extensions.logging\\1.6.2\\nlog.extensions.logging.1.6.2.nupkg.sha512",
+    "C:\\Users\\siddj\\.nuget\\packages\\nlog.web.aspnetcore\\4.9.2\\nlog.web.aspnetcore.4.9.2.nupkg.sha512",
     "C:\\Users\\siddj\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\siddj\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\siddj\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
