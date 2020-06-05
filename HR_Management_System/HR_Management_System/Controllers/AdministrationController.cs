@@ -14,6 +14,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace HR_Management_System.Controllers
 {
     [Authorize(Roles ="Admin")]
+    [System.Runtime.InteropServices.Guid("28410DD6-F571-46E3-8DF0-C11B7BD5C9EE")]
     public class AdministrationController : Controller
     {
         private readonly RoleManager<IdentityRole> roleManager;
@@ -55,6 +56,7 @@ namespace HR_Management_System.Controllers
         }
 
         [HttpPost]
+        [Authorize(Policy = "DeleteRolePolicy")]
         public async Task<IActionResult> DeleteUser(string id)
         {
             var user = await userManager.FindByIdAsync(id);
@@ -89,6 +91,7 @@ namespace HR_Management_System.Controllers
             return View(users);
         }
 
+        [Authorize(Policy = "EditRolePolicy")]
         public IActionResult CreateRole()
         {
             return View();
@@ -129,6 +132,7 @@ namespace HR_Management_System.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "EditRolePolicy")]
         public async Task<IActionResult> EditRole(string id)
         {
 
@@ -158,6 +162,7 @@ namespace HR_Management_System.Controllers
         }
 
         [HttpPost]
+        [Authorize(Policy = "EditRolePolicy")]
         public async Task<IActionResult> EditRole(EditRoleViewModel model)
         {
             var role = await roleManager.FindByIdAsync(model.Id);
@@ -188,6 +193,7 @@ namespace HR_Management_System.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "EditRolePolicy")]
         public async Task<IActionResult> EditUsersInRole(string roleId)
         {
             ViewBag.roleId = roleId;
@@ -226,6 +232,7 @@ namespace HR_Management_System.Controllers
         }
 
         [HttpPost]
+        [Authorize(Policy = "EditRolePolicy")]
         public async Task<IActionResult> EditUsersInRole(List<UserRoleViewModel> model, string roleId)
         {
             var role = await roleManager.FindByIdAsync(roleId);
@@ -268,6 +275,7 @@ namespace HR_Management_System.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy = "EditRolePolicy")]
         public async Task<IActionResult> EditUser(string id)
         {
             var user = await userManager.FindByIdAsync(id);
@@ -295,6 +303,7 @@ namespace HR_Management_System.Controllers
         }
 
         [HttpPost]
+        [Authorize(Policy = "EditRolePolicy")]
         public async Task<IActionResult> EditUser(EditUserViewModel model)
         {
             var user = await userManager.FindByIdAsync(model.Id);
