@@ -118,7 +118,6 @@ C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
-C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Account\RegistrationConfirmation.cshtml.g.cs
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
@@ -129,3 +128,6 @@ C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\bin\Debug\
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\HR_Management_System.csproj.CoreCompileInputs.cache
 C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\HR_Management_System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Account\EmailConfirmError.cshtml.g.cs
+C:\Users\siddj\source\repos\HR_Management_System\HR_Management_System\obj\Debug\netcoreapp3.1\Razor\Views\Account\RegistrationComplete.cshtml.g.cs
